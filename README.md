@@ -3,8 +3,8 @@
 I am a student at NAIT in Digital Media and IT. My program is CSD(Computer Software Development). I like to do programming and problem solving.
 
 ### Technologies & Tools
-[![Text Editor] (https://img.shields.io/badge/Editor-VS%20Code-green?style=for-the-
-badge&logo=visualstudiocode)[https://code.visualstudio.com)
+
+[![Text Editor](https://img.shields.io/badge/Editor-VS%20Code-green?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
 
 
 
