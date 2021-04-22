@@ -11,15 +11,12 @@ I am a student at NAIT in Digital Media and IT. My program is CSD(Computer Softw
 ### GitHub Stats
 
 <a href="https://github.com/fshyan/fshyan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?
-                           username=fshyan&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8
-                           a&bg_color=1d1f21" />
-</a>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fshyan&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <a href="https://github.com/fshyan/fshyan">
-  <img aling="center" src=https://github-readme-stats.vercel.app/api?
-       username=fshyan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9acc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fahim Shyans Github Stats" />
- 
-  </a>
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=fshyan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fahim Shyan's GitHub Stats" />
+</a>
+
 <details>
   <summary>Some ideas</summary>
   - 🔭 I’m currently working on ...
