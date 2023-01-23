@@ -1,6 +1,6 @@
-### Fahim Ahmed Shyan - DMIT/NAIT
+### Fahim Ahmed Shyan
 
-I am a student at NAIT in Digital Media and IT. My program is CSD(Computer Software Development). I like to do programming and problem solving.
+I am a student in IT. My program is CSD(Computer Software Development). I like to do programming and problem solving.
 
 ### Technologies & Tools
 
